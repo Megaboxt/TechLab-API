@@ -1,0 +1,13 @@
+{
+  "name": "techlab-proyect",
+  "version": "1.0.0",
+  "description": "Servidor para una tienda en línea",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Gonzalo Duarte",
+  "license": "ISC"
+}
